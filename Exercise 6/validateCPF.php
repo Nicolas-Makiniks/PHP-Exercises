@@ -25,6 +25,6 @@
                 return 'Invalid CPF';
             }
         }
-        return 'Valid CPF';
+        return "{$cpf} is a Valid CPF";
     }
 ?>
